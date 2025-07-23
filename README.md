@@ -77,17 +77,17 @@ The processor follows a modular RISC architecture with the following main compon
 *Detailed ALU architecture showing input/output ports, operation codes, and internal logic for arithmetic and logical operations.*
 
 #### Register File
-![Register File Architecture](best_reg_file.PNG)
+![Register File Architecture](reg_file.PNG)
 
 *Register file architecture displaying the 8 general-purpose 16-bit registers with read/write control logic and address decoding.*
 
 #### Program Counter (PC)
-![Program Counter Architecture](pc_best.PNG)
+![Program Counter Architecture](pc.PNG)
 
 *Program counter module showing increment, branch, and reset functionality for instruction address management.*
 
 #### Memory Module
-![Memory Architecture](memoire_best.PNG)
+![Memory Architecture](memoire.PNG)
 
 *Memory architecture illustrating data storage, address decoding, and read/write control mechanisms for both instruction and data memory.*
 
@@ -97,12 +97,12 @@ The processor follows a modular RISC architecture with the following main compon
 *Complete CPU architecture showing the integration of all components and the data flow between different modules.*
 
 #### Control Unit
-![Control Unit Architecture](cu_bbjj.PNG)
+![Control Unit Architecture](cu.PNG)
 
 *Control unit architecture demonstrating instruction execution control, state management, and coordination of processor operations.*
 
 #### Instruction Decoder
-![Decoder Architecture](decoder_best.PNG)
+![Decoder Architecture](decoder.PNG)
 
 *Instruction decoder architecture showing how 16-bit instructions are decoded into control signals for different processor components.*
 
